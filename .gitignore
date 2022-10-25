@@ -1,3 +1,8 @@
 
 HAKA_PyWFS_proto/IM_zernike.npy
 *.pyc
+*.fits
+*.fits
+standard_PyWFS/psf_cube_keck_Lband_realistic_120RMS_NCPA.fits
+*.fits
+*.fits
